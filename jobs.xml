@@ -10898,4 +10898,31 @@
     <Entry Id="fleeca_robbery_timer_bar_take">
         <String xml:lang="en-US">ITEMS TAKEN</String>
     </Entry>
+    <Entry Id="fleeca_robbery_drill_vault_btn">
+        <String xml:lang="en-US">Drill the vault door</String>
+    </Entry>
+    <Entry Id="fleeca_robbery_vault_menu_title">
+        <String xml:lang="en-US">Bank Vault</String>
+    </Entry>
+    <Entry Id="fleeca_robbery_vault_menu_subtitle">
+        <String xml:lang="en-US">Choose how to open it</String>
+    </Entry>
+    <Entry Id="fleeca_robbery_vault_tool_hack">
+        <String xml:lang="en-US">Hack the keypad</String>
+    </Entry>
+    <Entry Id="fleeca_robbery_vault_tool_hack_desc">
+        <String xml:lang="en-US">Crack the keypad code with a hacking device.</String>
+    </Entry>
+    <Entry Id="fleeca_robbery_vault_tool_drill">
+        <String xml:lang="en-US">Drill the vault door</String>
+    </Entry>
+    <Entry Id="fleeca_robbery_vault_tool_drill_desc">
+        <String xml:lang="en-US">Hard on the drill - it usually snaps if you fail.</String>
+    </Entry>
+    <Entry Id="fleeca_robbery_need_vault_drill">
+        <String xml:lang="en-US">~r~You need a ~b~{0}~s~ to drill through the vault door.</String>
+    </Entry>
+    <Entry Id="fleeca_robbery_need_vault_tool">
+        <String xml:lang="en-US">~r~You need a ~b~hacking device~s~ or a ~b~drill~s~ to open the vault.</String>
+    </Entry>
 </Entries>
