@@ -10835,8 +10835,9 @@
     <Entry Id="fleeca_robbery_cuffed">
         <String xml:lang="en-US">You have been ~r~cuffed ~s~and you failed the ~b~Fleeca bank robbery~s~.</String>
     </Entry>
+    <!-- {0} = location name, like Legion Square -->
     <Entry Id="fleeca_robbery_police_notification">
-        <String xml:lang="en-US">(C)Dispatch:(/C) Attention all units. The (C)Fleeca bank(/C) is being robbed.</String>
+        <String xml:lang="en-US">(C)Dispatch:(/C) Attention all units. The (C)Fleeca bank(/C) in {0} is being robbed.</String>
     </Entry>
     <Entry Id="fleeca_robbery_success">
         <String xml:lang="en-US">~g~Robbery completed! ~s~You successfully stole ~y~{0} items ~s~from the ~b~Fleeca bank~s~.</String>
@@ -10860,7 +10861,7 @@
         <String xml:lang="en-US">You can't access information on the state of Fleeca bank robberies as a {0}.</String>
     </Entry>
     <Entry Id="fleeca_robbery_cmd_in_progress">
-        <String xml:lang="en-US">A ~b~bank robbery ~s~is in progress at {0}.</String>
+        <String xml:lang="en-US">A ~b~Fleeca bank robbery ~s~is in progress at {0}.</String>
     </Entry>
     <Entry Id="fleeca_robbery_cmd_not_enough_cops">
         <String xml:lang="en-US">~b~Fleeca bank robberies ~s~can't be started because there are less than ~y~{0}~s~ cops online.</String>
