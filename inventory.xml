@@ -145,6 +145,7 @@
         <String xml:lang="es-ES">Restaura la armadura en un 25%</String>
         <String xml:lang="sr-RS">Vraća 25% vaše oklopne opreme</String>
         <String xml:lang="tr-TR">Vücut zırhını %25 yeniler</String>
+        <String xml:lang="hi-Latn">Aapke body armor ko 25% se wapas badha deta hai.</String>
     </Entry>
 
     <Entry Id="item_armor_standard">
@@ -173,6 +174,7 @@
         <String xml:lang="es-ES">Restaura la armadura en un 50%</String>
         <String xml:lang="sr-RS">Vraća 50% vaše oklopne opreme</String>
         <String xml:lang="tr-TR">Vücut zırhını %50 yeniler</String>
+        <String xml:lang="hi-Latn">Aapke body armor ko 50% se wapas badha deta hai.</String>
     </Entry>
 
     <Entry Id="item_armor_heavy">
@@ -201,6 +203,7 @@
         <String xml:lang="es-ES">Restaura completamente tu armadura</String>
         <String xml:lang="sr-RS">Potpuno vraća vašu oklopnu opremu</String>
         <String xml:lang="tr-TR">Vücut zırhının tamamını yeniler</String>
+        <String xml:lang="hi-Latn">Aapke body armor poora restore kar deta hai.</String>
     </Entry>
 
     <Entry Id="item_medkit">
@@ -229,6 +232,7 @@
         <String xml:lang="es-ES">Restaura completamente tu salud</String>
         <String xml:lang="sr-RS">Potpuno vraća vašu zdravlje</String>
         <String xml:lang="tr-TR">Canının tamamını yeniler</String>
+        <String xml:lang="hi-Latn">Aapke health ko poora restore kar deta hai.</String>
     </Entry>
 
     <Entry Id="item_bandage">
@@ -257,6 +261,7 @@
         <String xml:lang="es-ES">Restaura tu salud en un 20%, hasta un 80%</String>
         <String xml:lang="sr-RS">Vraća 20% vaše zdravlje, maksimalno 80%</String>
         <String xml:lang="tr-TR">Canını %20 yeniler (en fazla %80'e kadar)</String>
+        <String xml:lang="hi-Latn">Aapke health ko 20% se wapas badha deta hai, maximum 80% tak</String>
     </Entry>
 
     <Entry Id="item_curekit">
@@ -271,6 +276,7 @@
         <String xml:lang="es-ES">Kit de tratamiento</String>
         <String xml:lang="sr-RS">Komplet za lečenje</String>
         <String xml:lang="tr-TR">Tedavi Kiti</String>
+        <String xml:lang="hi-Latn">Ilaaj ka samaan</String>
     </Entry>
     
     <Entry Id="item_curekit_desc">
@@ -285,6 +291,7 @@
         <String xml:lang="es-ES">Un kit para tratar cualquier enfermedad; solo para uso de médicos</String>
         <String xml:lang="sr-RS">Komplet za lečenje svake bolesti; samo za upotrebu medicinskih osoblja</String>
         <String xml:lang="tr-TR">Her türlü hastalığı tedavi etmek için kullanılan bir kit; yalnızca sağlık görevlileri kullanabilir.</String>
+        <String xml:lang="hi-Latn">Kisi bhi bimari ke ilaaj ke liye kit; sirf medics ke dwara use ke liye.</String>
     </Entry>
 
     <Entry Id="item_coke">
@@ -313,6 +320,7 @@
         <String xml:lang="es-ES">Aumenta tu resistencia y velocidad.</String>
         <String xml:lang="sr-RS">Povećava vašu izdržljivost i brzinu.</String>
         <String xml:lang="tr-TR">Dayanıklılığını ve hızını arttırır.</String>
+        <String xml:lang="hi-Latn">Aapke stamina aur speed ko badhata hai.</String>
     </Entry>
 
     <Entry Id="item_crack">
@@ -341,6 +349,7 @@
         <String xml:lang="es-ES">Aumenta tu resistencia y velocidad significativamente. Los efectos duran menos que los de la cocaína en polvo.</String>
         <String xml:lang="sr-RS">Značajno povećava vašu izdržljivost i brzinu. Efekti traju kraće nego kod poštenog kokaina.</String>
         <String xml:lang="tr-TR">Dayanıklılığını ve hızını artırır. Etkisi toz kokaine göre daha kısa sürer.</String>
+        <String xml:lang="hi-Latn">Aapki stamina aur speed ko kaafi badha deta hai. Iska effect powder cocaine se kam samay tak rehta hai.</String>
     </Entry>
 
     <Entry Id="item_heroin">
@@ -369,6 +378,7 @@
         <String xml:lang="es-ES">Gradualmente restaura tu salud, pero ralentiza tus movimientos.</String>
         <String xml:lang="sr-RS">Gradualno vraća vaše zdravlje, ali usporava vaše kretanje.</String>
         <String xml:lang="tr-TR">Canını yavaş yavaş yeniler, fakat hareket hızını düşürür.</String>
+        <String xml:lang="hi-Latn">Aapke health ko dheere dheere badhata hai, lekin aapki movement ko slow karta hai.</String>
     </Entry>
 
     <Entry Id="item_meth">
@@ -397,6 +407,7 @@
         <String xml:lang="es-ES">Aumenta tu resistencia y fuerza física.</String>
         <String xml:lang="sr-RS">Povećava vašu otpornost na štetu i vašu fizičku snagu.</String>
         <String xml:lang="tr-TR">Aldığın hasara karşı direncini ve fiziksel gücünü artırır.</String>
+        <String xml:lang="hi-Latn">Aapki damage sehne ki capacity aur physical strength ko badhata hai.</String>
     </Entry>
 
     <Entry Id="item_blue_meth">
@@ -425,6 +436,7 @@
         <String xml:lang="es-ES">Una forma rara pero extremadamente pura de metanfetamina que aumenta significativamente tu resistencia y fuerza física.</String>
         <String xml:lang="sr-RS">Reta ali ekstremno čista forma metanfetamine koja značajno povećava vašu otpornost na štetu i fizičku snagu.</String>
         <String xml:lang="tr-TR">Nadir fakat oldukça saf bir meth türüdür. Hasar direncini ve fiziksel gücünü ciddi şekilde artırır.</String>
+        <String xml:lang="hi-Latn">Meth ka ek rare aur bahut zyada pure form, jo aapki damage sehne ki capacity aur physical strength ko kaafi badhata hai.</String>
     </Entry>
 
     <Entry Id="item_lsd">
@@ -453,6 +465,7 @@
         <String xml:lang="es-ES">Provoca locas alucinaciones.</String>
         <String xml:lang="sr-RS">Daje vam čudne halucinacije.</String>
         <String xml:lang="tr-TR">Halisünasyon görmene neden olur.</String>
+        <String xml:lang="hi-Latn">Aapko crazy hallucinations deta hai.</String>
     </Entry>
 
     <Entry Id="item_morphine">
@@ -535,6 +548,7 @@
         <String xml:lang="es-ES">Antídoto para sobredosis de drogas. Solo puedes usarlo en otros jugadores.</String>
         <String xml:lang="sr-RS">Protivotok za prekomernu dozu lekova. Možeš ga koristiti samo na drugim igračima.</String>
         <String xml:lang="tr-TR">Aşırı dozda uyuşturucuyu tedavi eden panzehir. Yalnızca diğer oyuncular üzerinde kullanılabilir.</String>
+        <String xml:lang="hi-Latn">Drogs ke overdose ke liye antidote. Aap sirf doosre players par use kar sakte hain.</String>
     </Entry>
     
     <Entry Id="item_weed_desc">
@@ -549,6 +563,7 @@
         <String xml:lang="es-ES">Te da un efecto de euforia y aplica un filtro visual pero ralentiza tus movimientos si se toma en grandes cantidades.</String>
         <String xml:lang="sr-RS">Daje vam efekat euforije i primenjuje vizuelni filter ali vas usporava ako se uzme u velikim količinama.</String>
         <String xml:lang="tr-TR">Kafa yapar ve görüşüne bir filtre uygular, ancak yüksek miktarda alındığında hareketlerini yavaşlatır.</String>
+        <String xml:lang="hi-Latn">Aapko high feel deta hai aur ek vision filter lagata hai, lekin agar aap isko bahut zyada lenge to aapki speed kam karta hai.</String>
     </Entry>
 
     <Entry Id="item_atm_hack">
@@ -577,6 +592,7 @@
         <String xml:lang="es-ES">Un dispositivo de un solo uso que puede comprometer los sistemas de un Cajero.</String>
         <String xml:lang="sr-RS">Jednokorišćen uređaj koji može oštetiti ATM sisteme.</String>
         <String xml:lang="tr-TR">ATM sistemlerini hackleyebilen tek kullanımlık bir cihaz.</String>
+        <String xml:lang="hi-Latn">Ek baar use karne wala device jo ATM systems ko compromise kar sakta hai.</String>
     </Entry>
 
     <Entry Id="item_c4_bomb_5">
@@ -605,6 +621,7 @@
         <String xml:lang="es-ES">Una bomba con 5 kilos de C-4. Solo puede ser colocada en vehículos.</String>
         <String xml:lang="sr-RS">Bomba sa 5 kilograma C-4. Može se postaviti samo u vozilima.</String>
         <String xml:lang="tr-TR">5 kilogram C-4 içeren patlayıcı. Yalnızca araçlara yerleştirilebilir.</String>
+        <String xml:lang="hi-Latn">Ek bomb jisme 5 kilogram C-4 hai. Sirf gaadiyon mein plant kiya ja sakta hai.</String>
     </Entry>
 
     <Entry Id="item_c4_bomb_10">
@@ -633,6 +650,7 @@
         <String xml:lang="es-ES">Una bomba con 10 kilos de C-4. Solo puede ser colocada en vehículos.</String>
         <String xml:lang="sr-RS">Bomba sa 10 kilograma C-4. Može se postaviti samo u vozilima.</String>
         <String xml:lang="tr-TR">10 kilogram C-4 içeren patlayıcı. Yalnızca araçlara yerleştirilebilir.</String>
+        <String xml:lang="hi-Latn">Ek bomb jisme 10 kilogram C-4 hai. Sirf gaadiyon mein plant kiya ja sakta hai.</String>
     </Entry>
 
     <!-- Notice: feel free to name the following scratch cards a little bit differently if the 
@@ -649,6 +667,7 @@
         <String xml:lang="es-ES">Cupón instantaneo</String>
         <String xml:lang="sr-RS">Instantna uplata</String>
         <String xml:lang="tr-TR">Sıcak Para</String>
+        <String xml:lang="hi-Latn">Jhatpat Paise</String>
     </Entry>
 
     <Entry Id="item_scratch_card_2">
@@ -663,6 +682,7 @@
         <String xml:lang="es-ES">Cupón suertudo</String>
         <String xml:lang="sr-RS">Srećna karta</String>
         <String xml:lang="tr-TR">Şanslı Kazı Kazan</String>
+        <String xml:lang="hi-Latn">Kismatwali Scratch</String>
     </Entry>
 
     <Entry Id="item_scratch_card_3">
@@ -677,6 +697,7 @@
         <String xml:lang="es-ES">Números mágicos</String>
         <String xml:lang="sr-RS">Magični brojevi</String>
         <String xml:lang="tr-TR">Sihirli Sayılar</String>
+        <String xml:lang="hi-Latn">Jaadui Numbers</String>
     </Entry>
 
     <Entry Id="item_scratch_card_4">
@@ -705,6 +726,7 @@
         <String xml:lang="es-ES">Atajo a la fortuna</String>
         <String xml:lang="sr-RS">Prečica do milionera</String>
         <String xml:lang="tr-TR">Milyonerliğe Kısayol</String>
+        <String xml:lang="hi-Latn">Crorepati ka Shortcut</String>
     </Entry>
 
     <Entry Id="item_scratch_card_6">
@@ -738,6 +760,7 @@
         <String xml:lang="es-ES">Rasca este cupón para ganar hasta ~g~{0}~s~!</String>
         <String xml:lang="sr-RS">Oskrabi ovu karticu i osvoji do ~g~{0}~s~!</String>
         <String xml:lang="tr-TR">Bu kartı kazı ve ~g~{0}~s~'a kadar kazanma şansı yakala!</String>
+        <String xml:lang="hi-Latn">Is card ko scratch karo aur jeeto ~g~{0}~s~ tak!</String>
     </Entry>
 
     <Entry Id="item_engine_kit">
@@ -766,6 +789,7 @@
         <String xml:lang="es-ES">Repara el motor de un coche, camión o motocicleta en cualquier lugar.</String>
         <String xml:lang="sr-RS">Popravi motor automobila, kamiona ili motocikla u putu.</String>
         <String xml:lang="tr-TR">Otomobil, kamyon veya motosiklet motorunu bulunduğun yerde tamir etmeni sağlar.</String>
+        <String xml:lang="hi-Latn">Chalte-phirte car, truck ya motorcycle ka engine repair karein.</String>
     </Entry>
 
     <Entry Id="item_tire_kit">
@@ -794,6 +818,7 @@
         <String xml:lang="es-ES">Repara los neumáticos de un vehículo.</String>
         <String xml:lang="sr-RS">Popravi izmucen lopatice vozila.</String>
         <String xml:lang="tr-TR">Aracın patlak lastiğini tamir etmeni sağlar.</String>
+        <String xml:lang="hi-Latn">Gaadiyon ke punctured tires ko repair karein.</String>
     </Entry>
     
     <Entry Id="item_power_saw">
@@ -822,6 +847,7 @@
         <String xml:lang="es-ES">Corta partes del vehículo. Hay un 20% de probabilidad de que se rompa después de cada uso.</String>
         <String xml:lang="sr-RS">Odsijeci delove vozila. Postoji 20% šansa da se ošteći nakon svakog korišćenja.</String>
         <String xml:lang="tr-TR">Aracın parçalarını kesmeni sağlar. Kullanımdan sonra %20 ihtimalle kırılabilir.</String>
+        <String xml:lang="hi-Latn">Vehicle ke parts kaat sakta hai. Har use ke baad iske tootne ka 20% chance hai.</String>
     </Entry>
     
     <Entry Id="item_cleaning_kit">

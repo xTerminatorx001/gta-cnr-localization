@@ -880,6 +880,7 @@
         <String xml:lang="it-IT">~g~Verde ~s~= cifra e posizione corrette.~n~~y~Giallo ~s~= cifra è nella posizione sbagliata~n~~r~Rosso ~s~= cifra non è presente nella chiave.</String>
         <String xml:lang="vi-VN">~g~Xanh lá ~s~= chữ số và vị trí chính xác.~n~~y~Vàng ~s~= chữ số đúng nhưng sai vị trí.~n~~r~Đỏ ~s~= chữ số không xuất hiện trong mã khóa.</String>
         <String xml:lang="de-DE">~g~Grün ~s~= Ziffer und Position korrekt.~n~~y~Gelb ~s~= Ziffer an der falschen Position.~n~~r~Rot ~s~= Ziffer kommt nicht im Code vor.</String>
+        <String xml:lang="hi-Latn">~g~Green ~s~= matlab sahi digit aur place.~n~~y~Yellow ~s~= matlab digit galat jagah pe hai~n~~r~Red ~s~= matlab ye digit key me hai hi nahi.</String>
     </Entry>
 
     <Entry Id="atm_hacking_puzzle_failed">
@@ -889,6 +890,7 @@
         <String xml:lang="it-IT">Hai ~r~fallito ~s~a hackare l'ATM.</String>
         <String xml:lang="vi-VN">Bạn đã ~r~thất bại ~s~trong việc hack máy ATM.</String>
         <String xml:lang="de-DE">Du hast es ~r~nicht geschafft~s~, den Geldautomaten zu hacken.</String>
+        <String xml:lang="hi-Latn">Aap ~r~fail ~s~ho gaye ATM hack karne me.</String>
     </Entry>
 
     <!--=======================-->
