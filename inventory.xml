@@ -5585,7 +5585,6 @@
         <String xml:lang="sr-RS">Predmeti iz vašeg inventara</String>
         <String xml:lang="it-IT">Oggetti dal tuo inventario</String>
         <String xml:lang="vi-VN">Vật phẩm trong túi đồ của bạn</String>
-        <String xml:lang="en-US">Items from your inventory</String>
         <String xml:lang="hi-Latn">Aapke inventory se items</String>
     </Entry>
 
@@ -5615,7 +5614,7 @@
         <String xml:lang="sr-RS">~y~Upozorenje: ~s~bice prikazani samo kompatibilni predmeti.</String>
         <String xml:lang="it-IT">~y~Avviso: ~s~solo oggetti compatibili verranno mostrati</String>
         <String xml:lang="vi-VN">~y~Cảnh báo: ~s~chỉ hiển thị các vật phẩm tương thích.</String>
-        <String xml:lang="hi-Latn">~y~Warning: ~s~ sirf compatible items dikhayenge.</String>
+        <String xml:lang="hi-Latn">~y~Warning: ~s~sirf compatible items dikhayenge.</String>
     </Entry>
 
     <Entry Id="storage_put_action_label">
